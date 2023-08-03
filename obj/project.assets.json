@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\akane\\.nuget\\packages\\": {}
+    "C:\\Users\\alouk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akane\\.vscode\\Projects\\C#\\Lesson2\\program\\program.csproj",
+      "projectUniqueName": "C:\\Users\\alouk\\.vscode\\Projects\\C#\\lesson2\\program\\program.csproj",
       "projectName": "program",
-      "projectPath": "C:\\Users\\akane\\.vscode\\Projects\\C#\\Lesson2\\program\\program.csproj",
-      "packagesPath": "C:\\Users\\akane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akane\\.vscode\\Projects\\C#\\Lesson2\\program\\obj\\",
+      "projectPath": "C:\\Users\\alouk\\.vscode\\Projects\\C#\\lesson2\\program\\program.csproj",
+      "packagesPath": "C:\\Users\\alouk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alouk\\.vscode\\Projects\\C#\\lesson2\\program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\akane\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alouk\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
